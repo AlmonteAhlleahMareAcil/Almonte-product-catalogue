@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Baguette",
+        "price": 45.00,
+        "description": "Long Bread"
+    },
+    {
+        "id": 2,
+        "name": "Cinnamonroll",
+        "price": 35.00,
+        "description": "Circular Sweeten Bread with Cinnamon"
+    },
+    {
+        "id": 3,
+        "name": "Ensaymada",
+        "price": 20.00,
+        "description": "Spiral Bread with Sugar and Cheese"
+    },
+    {
+        "id": 4,
+        "name": "Panso",
+        "price": 10.00,
+        "description": "Square Shaped Bread"
+    }
+]
