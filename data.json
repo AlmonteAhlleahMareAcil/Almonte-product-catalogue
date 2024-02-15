@@ -1,26 +1,26 @@
 [
     {
-        "id": 1,
-        "name": "Baguette",
-        "price": 45.00,
-        "description": "Long Bread"
-    },
-    {
-        "id": 2,
-        "name": "Cinnamonroll",
-        "price": 35.00,
-        "description": "Circular Sweeten Bread with Cinnamon"
-    },
-    {
-        "id": 3,
-        "name": "Ensaymada",
-        "price": 20.00,
-        "description": "Spiral Bread with Sugar and Cheese"
-    },
-    {
-        "id": 4,
-        "name": "Panso",
-        "price": 10.00,
-        "description": "Square Shaped Bread"
-    }
-]
+"product_name": "Baguette",
+"product_price": "₱45.00",
+"product_description": "Long Bread.",
+"product_dateAdded": "2024-02-15"
+},
+{
+"product_name": "Cinnamonroll",
+"product_price": "₱35.00",
+"product_description": "Circular Sweeten Bread with Cinnamon.",
+"product_dateAdded": "2024-02-15"
+},
+{
+"product_name": "Ensaymada",
+"product_price": "₱20.00",
+"product_description": "Melt in your mouth,light and puffy curls coated in delicious cheese flavor.",
+"product_dateAdded": "2024-02-15"
+},
+{
+ "product_name": "Panso",
+ "product_price": "₱10.00",
+ "product_description": "Square Shaped Bread.",
+ "product_dateAdded": "2024-02-15"
+}
+    ]
